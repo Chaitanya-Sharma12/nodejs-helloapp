@@ -1,5 +1,4 @@
-# Node public repo Hello World subscribe to my channel , thanks you
-
+# Node public repo Hello World 
 Simple node.js app that servers  " A Monk in Cloud"
 
 Great for testing simple deployments on Cloud
